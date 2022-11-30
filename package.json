@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.1.100",
+    "@vueuse/core": "^9.1.1",
+    "@vueuse/nuxt": "^9.1.1",
+    "autoprefixer": "^10.4.8",
+    "nuxt": "3.0.0-rc.6",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "unplugin-icons": "^0.14.8"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.6.7",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "sass": "^1.54.3",
+    "sass-loader": "^10.1.1",
+    "swiper": "^6.8.4"
+  }
+}
